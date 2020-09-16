@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jemgodden/CLionProjects/n_body/main.c
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+gsl/gsl_errno.h
+-
+gsl/gsl_odeiv2.h
+-
+

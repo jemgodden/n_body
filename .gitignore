@@ -1,0 +1,6 @@
+*.o
+*.out
+/.idea
+.DS_Store
+simulation_energy.png
+simulation_path.png
